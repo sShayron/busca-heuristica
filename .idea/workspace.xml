@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4825d2a9-31e4-46a1-a1fb-7622318cfa31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuscaHeuristica.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuscaHeuristica.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busca-heuristica.js" beforeDir="false" afterPath="$PROJECT_DIR$/busca-heuristica.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cidades.js" beforeDir="false" afterPath="$PROJECT_DIR$/cidades.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
