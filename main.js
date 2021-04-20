@@ -1,6 +1,6 @@
 import readline from 'readline';
-import cidades from './cidades.js';
-import buscaHeuristica from './BuscaHeuristica.js';
+import cidades from './src/busca-heuristica/constants/cidades.js';
+import buscaHeuristica from './src/busca-heuristica/service/busca-heuristica.js';
 
 console.log('Sera utilizado como modelo de dados as cidades da Romenia');
 console.log('A busca partirá de Arad e o destino é Bucharest');
